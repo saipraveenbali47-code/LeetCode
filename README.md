@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
