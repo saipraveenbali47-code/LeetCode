@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0075-sort-colors) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0048-rotate-image) |
 | [0509-fibonacci-number](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0509-fibonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/saipraveenbali47-code/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
@@ -89,5 +91,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
