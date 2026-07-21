@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0704-binary-search) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saipraveenbali47-code/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saipraveenbali47-code/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
