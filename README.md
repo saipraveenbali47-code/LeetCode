@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0229-majority-element-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/saipraveenbali47-code/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saipraveenbali47-code/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0048-rotate-image) |
 | [0509-fibonacci-number](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/saipraveenbali47-code/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/saipraveenbali47-code/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saipraveenbali47-code/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
