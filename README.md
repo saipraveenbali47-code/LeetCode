@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saipraveenbali47-code/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saipraveenbali47-code/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/saipraveenbali47-code/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/saipraveenbali47-code/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saipraveenbali47-code/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0229-majority-element-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saipraveenbali47-code/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/saipraveenbali47-code/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saipraveenbali47-code/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/saipraveenbali47-code/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -189,4 +193,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/saipraveenbali47-code/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saipraveenbali47-code/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
