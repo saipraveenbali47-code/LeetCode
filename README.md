@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -244,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/saipraveenbali47-code/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
