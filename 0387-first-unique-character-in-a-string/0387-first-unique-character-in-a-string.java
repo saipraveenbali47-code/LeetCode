@@ -1,9 +1,11 @@
 class Solution {
     public int firstUniqChar(String s) {
+        int [] count = new int[26]; 
         for(char c : s.toCharArray()){
-            int index = s.indexOf(c);
-            int last = s.indexOf(c, index + 1);
-            if(last == -1) return index;
+            count[c - 'a']++;
+        }
+        for(int i = 0; i < s.length(); i ++){
+            if(count[s.charAt(i) - 'a'] == 1) return i;
         }
         return -1;
     }
