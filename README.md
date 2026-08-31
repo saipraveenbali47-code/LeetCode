@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2614-prime-in-diagonal](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2706-buy-two-chocolates](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2706-buy-two-chocolates](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/saipraveenbali47-code/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saipraveenbali47-code/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
