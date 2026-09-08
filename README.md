@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2614-prime-in-diagonal](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2614-prime-in-diagonal) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2000-reverse-prefix-of-word) |
