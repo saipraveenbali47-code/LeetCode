@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0258-add-digits) |
+| [0367-valid-perfect-square](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0877-stone-game) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0367-valid-perfect-square](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0704-binary-search) |
