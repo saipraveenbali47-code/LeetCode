@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1672-richest-customer-wealth](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [1672-richest-customer-wealth](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2614-prime-in-diagonal](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2614-prime-in-diagonal) |
 ## Design
 |  |
