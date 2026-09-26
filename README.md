@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0342-power-of-four) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/saipraveenbali47-code/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1922-count-good-numbers) |
 ## Memoization
