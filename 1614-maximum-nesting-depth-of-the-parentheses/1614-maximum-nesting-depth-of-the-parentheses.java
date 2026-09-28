@@ -2,10 +2,10 @@ class Solution {
     public int maxDepth(String s) {
         int pos = 0, maxdepth = Integer.MIN_VALUE;
         for(char c  : s.toCharArray()){
-            if(c == '(') pos ++;
+            if(c == '('){ pos ++;maxdepth = Math.max(pos, maxdepth);}
             else if(c == ')') pos --;
-            maxdepth = Math.max(pos, maxdepth);
+            
         }
-        return maxdepth;
+        return maxdepth == Integer.MIN_VALUE ? 0 : maxdepth;
     }
 }
