@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1518-water-bottles](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1518-water-bottles) |
+| [1688-count-of-matches-in-tournament](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1518-water-bottles](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1518-water-bottles) |
+| [1688-count-of-matches-in-tournament](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/saipraveenbali47-code/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/saipraveenbali47-code/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saipraveenbali47-code/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
