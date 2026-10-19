@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2614-prime-in-diagonal](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2614-prime-in-diagonal) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2706-buy-two-chocolates](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2784-check-if-array-is-good](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2784-check-if-array-is-good) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
