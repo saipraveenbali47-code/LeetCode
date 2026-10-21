@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1922-count-good-numbers) |
+| [1952-three-divisors](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2614-prime-in-diagonal](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2614-prime-in-diagonal) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1952-three-divisors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/saipraveenbali47-code/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Trie
@@ -559,4 +562,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/saipraveenbali47-code/LeetCode/tree/master/0069-sqrtx) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
