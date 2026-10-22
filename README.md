@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2614-prime-in-diagonal](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2706-buy-two-chocolates](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2000-reverse-prefix-of-word) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2864-maximum-odd-binary-number](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/saipraveenbali47-code/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saipraveenbali47-code/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
