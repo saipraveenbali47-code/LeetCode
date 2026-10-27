@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/saipraveenbali47-code/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2248-intersection-of-multiple-arrays](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
+| [2716-minimize-string-length](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2716-minimize-string-length) |
 | [2784-check-if-array-is-good](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2409-count-days-spent-together](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2446-determine-if-two-events-have-conflict) |
+| [2716-minimize-string-length](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2716-minimize-string-length) |
 | [2864-maximum-odd-binary-number](https://github.com/saipraveenbali47-code/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/saipraveenbali47-code/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saipraveenbali47-code/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
